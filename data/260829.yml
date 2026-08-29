@@ -1,0 +1,60 @@
+about:
+  description: Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+  license: MIT
+  homepage: https://9router.com
+  head: 699edac
+  archived: false
+  latestVersion: v0.5.35
+  collectedAt: 2026-08-29T06:59:05Z
+timeline:
+  created: 2026-01-05
+  lastCommit: 2026-08-14
+  lastRelease: 2026-07-16
+popularity:
+  star: 26588
+  watcher: 147
+  fork: 4823
+  release: 73
+  contributor: 229
+  pullRequest: 1642
+  issue: 1650
+language:
+  JavaScript: 6092724
+  CSS: 20334
+  PowerShell: 4001
+  Dockerfile: 1980
+  Shell: 157
+totalLine: 6119196
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 262
+    closedIssue: 35
+    openIssue: 218
+    commit: 72
+  last90d:
+    since: 2026-05-31
+    release: 10
+    mergedPR: 1
+    openPR: 596
+    closedIssue: 133
+    openIssue: 715
+    commit: 415
+  last180d:
+    since: 2026-03-02
+    release: 60
+    mergedPR: 152
+    openPR: 821
+    closedIssue: 530
+    openIssue: 999
+    commit: 866
+  last360d:
+    since: 2025-09-03
+    release: 73
+    mergedPR: 203
+    openPR: 829
+    closedIssue: 650
+    openIssue: 1000
+    commit: 1068
