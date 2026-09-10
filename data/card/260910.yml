@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.35"
   latestRelease: "v0.5.35"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:32:59Z
+  collectedAt: 2026-09-10T23:15:22Z
 timeline:
   created: 2026-01-05
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-07-16
   lastPrerelease: 
 popularity:
-  star: 28336
-  watcher: 152
-  fork: 5129
+  star: 28342
+  watcher: 153
+  fork: 5127
   release: 73
   contributor: 272
   pullRequest: 2046
@@ -59,35 +59,35 @@ recent:
     release: 57
     mergedPR: 144
     openPR: 897
-    closedIssue: 517
-    openIssue: 1110
+    closedIssue: 518
+    openIssue: 1109
     commit: 905
   last360d:
     since: 2025-09-15
     release: 73
     mergedPR: 203
     openPR: 910
-    closedIssue: 675
-    openIssue: 1111
+    closedIssue: 676
+    openIssue: 1110
     commit: 1187
   last720d:
     since: 2024-09-20
     release: 73
     mergedPR: 203
     openPR: 910
-    closedIssue: 675
-    openIssue: 1111
+    closedIssue: 676
+    openIssue: 1110
     commit: 1213
 total:
   release: 73
   mergedPR: 203
   openPR: 910
-  closedIssue: 675
-  openIssue: 1111
+  closedIssue: 676
+  openIssue: 1110
   commit: 1213
 ---
 path: /home/runner/.x-repo/github.com/decolua/9router
-collectedAt: 2026-09-10T20:33:03Z
+collectedAt: 2026-09-10T23:15:24Z
 loc:
   JavaScript:
     code: 146979
