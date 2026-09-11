@@ -14,8 +14,8 @@
   srcname: 9router-bin
   binname: 9router-bin
   visiblename: 9router-bin
-  version: 0.5.69
-  origversion: 0.5.69-1
+  version: 0.5.75
+  origversion: 0.5.75-1
   status: unique
   summary: AI router and proxy providing an OpenAI-compatible endpoint for multiple AI providers
   maintainers:
