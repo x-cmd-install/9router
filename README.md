@@ -4,7 +4,7 @@
 
 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
-![9router](https://repo.x-cmd.io/9router.svg)
+[![x-cmd/install — 9router Code Quality Monitoring Repo Card](https://repo.x-cmd.io/9router.svg)](https://x-cmd.com/install/9router)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install 9router
 
 ## Code insight
 
-Total: **163,004** lines of code across **1256** files in the top 5 languages.
+Total: **165,964** lines of code across **1271** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 146,979 | 13,392 | 17,888 | 1207 |
-| Json | 15,166 | 0 | 0 | 45 |
+| JavaScript | 149,895 | 13,740 | 18,215 | 1222 |
+| Json | 15,210 | 0 | 0 | 45 |
 | Css | 654 | 57 | 83 | 2 |
 | PowerShell | 108 | 4 | 18 | 1 |
 | Dockerfile | 38 | 9 | 12 | 1 |
@@ -33,26 +33,26 @@ Total: **163,004** lines of code across **1256** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.35` (2026-07-16)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 29,202 · **Forks**: 5,383 · **Open issues**: 1,855 · **Contributors**: 272
+- **Stars**: 29,386 · **Forks**: 5,471 · **Open issues**: 1,877 · **Contributors**: 285
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 203 · **Open PRs**: 966 · **Closed issues**: 685 · **Open issues**: 1170 · **Commits**: 1213
+- **Releases**: 73 · **Merged PRs**: 203 · **Open PRs**: 974 · **Closed issues**: 687 · **Open issues**: 1190 · **Commits**: 1244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 263 | 35 | 237 | 118 |
-| last60d | 2026-07-20 | 0 | 0 | 480 | 83 | 471 | 225 |
-| 90d | 2026-06-20 | 6 | 1 | 673 | 136 | 760 | 381 |
-| last180d | 2026-03-22 | 57 | 126 | 950 | 489 | 1168 | 869 |
-| 360d | 2025-09-23 | 73 | 203 | 966 | 685 | 1170 | 1187 |
-| last720d | 2024-09-28 | 73 | 203 | 966 | 685 | 1170 | 1213 |
+| 30d | 2026-08-21 | 0 | 0 | 262 | 35 | 242 | 149 |
+| last60d | 2026-07-22 | 0 | 0 | 467 | 77 | 472 | 256 |
+| 90d | 2026-06-22 | 4 | 1 | 673 | 127 | 753 | 412 |
+| last180d | 2026-03-24 | 57 | 117 | 951 | 484 | 1188 | 900 |
+| 360d | 2025-09-25 | 73 | 203 | 974 | 687 | 1190 | 1218 |
+| last720d | 2024-09-30 | 73 | 203 | 974 | 687 | 1190 | 1244 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for 9router lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:51:43Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:45:26Z._
