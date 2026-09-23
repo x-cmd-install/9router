@@ -4,7 +4,7 @@
 
 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
-[![x-cmd/install — 9router Code Quality Monitoring Repo Card](https://repo.x-cmd.io/9router.svg?lang=zh)](https://x-cmd.com/install/9router)
+[![x-cmd/install — 9router Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/9router.svg?lang=zh)](https://x-cmd.com/install/9router)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install 9router
 
 ## 代码洞察
 
-合计: **165,964** 行代码（覆盖前 5 种语言、共 **1271** 个文件）。
+合计: **173,014** 行代码（覆盖前 5 种语言、共 **1318** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 149,895 | 13,740 | 18,215 | 1222 |
-| Json | 15,210 | 0 | 0 | 45 |
+| JavaScript | 156,732 | 14,418 | 19,020 | 1258 |
+| Json | 15,287 | 0 | 0 | 45 |
 | Css | 654 | 57 | 83 | 2 |
+| Svg | 143 | 0 | 1 | 12 |
 | PowerShell | 108 | 4 | 18 | 1 |
-| Dockerfile | 38 | 9 | 12 | 1 |
 
 ## 源代码
 
@@ -33,26 +33,26 @@ x install 9router
 ## 发布
 
 - **最新版本**: `v0.5.35` (2026-07-16)
-- **最近提交**: 2026-09-18
+- **最近提交**: 2026-09-23
 
 ## 流行度
 
-- **Star**: 29,553 · **Fork**: 5,531 · **开放 issue**: 1,901 · **贡献者**: 285
+- **Star**: 29,632 · **Fork**: 5,562 · **开放 issue**: 1,917 · **贡献者**: 301
 
 ## 累计统计
 
-- **发布数**: 73 · **已合并 PR**: 203 · **开放 PR**: 987 · **已关闭 issue**: 688 · **开放 issue**: 1213 · **提交数**: 1244
+- **发布数**: 73 · **已合并 PR**: 203 · **开放 PR**: 979 · **已关闭 issue**: 690 · **开放 issue**: 1227 · **提交数**: 1285
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 263 | 33 | 251 | 132 |
-| last60d | 2026-07-24 | 0 | 0 | 472 | 77 | 482 | 242 |
-| 90d | 2026-06-24 | 4 | 1 | 677 | 123 | 751 | 378 |
-| last180d | 2026-03-26 | 57 | 115 | 963 | 479 | 1211 | 876 |
-| 360d | 2025-09-27 | 73 | 203 | 987 | 688 | 1213 | 1218 |
-| last720d | 2024-10-02 | 73 | 203 | 987 | 688 | 1213 | 1244 |
+| 30d | 2026-08-24 | 0 | 0 | 229 | 34 | 262 | 173 |
+| last60d | 2026-07-25 | 0 | 0 | 460 | 76 | 491 | 283 |
+| 90d | 2026-06-25 | 4 | 1 | 668 | 120 | 758 | 419 |
+| last180d | 2026-03-27 | 57 | 115 | 955 | 478 | 1225 | 917 |
+| 360d | 2025-09-28 | 73 | 203 | 979 | 690 | 1227 | 1259 |
+| last720d | 2024-10-03 | 73 | 203 | 979 | 690 | 1227 | 1285 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ x install 9router
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:55:10Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:52:06Z._
