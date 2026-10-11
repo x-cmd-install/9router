@@ -37,22 +37,22 @@ Total: **190,368** lines of code across **1445** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,535 · **Forks**: 5,820 · **Open issues**: 2,043 · **Contributors**: 328
+- **Stars**: 30,586 · **Forks**: 5,834 · **Open issues**: 2,051 · **Contributors**: 328
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 202 · **Open PRs**: 1109 · **Closed issues**: 709 · **Open issues**: 1334 · **Commits**: 1393
+- **Releases**: 73 · **Merged PRs**: 202 · **Open PRs**: 1109 · **Closed issues**: 710 · **Open issues**: 1341 · **Commits**: 1393
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 293 | 21 | 244 | 180 |
-| last60d | 2026-08-11 | 0 | 0 | 499 | 65 | 469 | 329 |
-| 90d | 2026-07-12 | 1 | 1 | 695 | 115 | 699 | 444 |
-| last180d | 2026-04-13 | 55 | 97 | 1068 | 424 | 1331 | 971 |
-| 360d | 2025-10-15 | 73 | 202 | 1109 | 709 | 1334 | 1365 |
-| last720d | 2024-10-20 | 73 | 202 | 1109 | 709 | 1334 | 1393 |
+| 30d | 2026-09-11 | 0 | 0 | 275 | 20 | 243 | 180 |
+| last60d | 2026-08-12 | 0 | 0 | 493 | 62 | 473 | 329 |
+| 90d | 2026-07-13 | 1 | 0 | 689 | 115 | 703 | 444 |
+| last180d | 2026-04-14 | 52 | 96 | 1067 | 419 | 1338 | 971 |
+| 360d | 2025-10-16 | 73 | 202 | 1109 | 710 | 1341 | 1365 |
+| last720d | 2024-10-21 | 73 | 202 | 1109 | 710 | 1341 | 1393 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for 9router lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:29:52Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:27:38Z._
