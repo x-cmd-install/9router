@@ -1,0 +1,35 @@
+- repo: aur
+  srcname: 9router
+  binname: 9router
+  visiblename: 9router
+  version: 0.5.75
+  origversion: 0.5.75-1
+  status: outdated
+  summary: FREE AI Router & Token Saver
+  maintainers:
+    - itachisan@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: 9router-bin
+  binname: 9router-bin
+  visiblename: 9router-bin
+  version: 0.5.104
+  origversion: 0.5.104-1
+  status: newest
+  summary: AI router and proxy providing an OpenAI-compatible endpoint for multiple AI providers
+  maintainers:
+    - wyf9661@aur
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: _9router
+  visiblename: 9router
+  version: 0.5.104
+  origversion: null
+  status: newest
+  summary: Local AI gateway routing requests across multiple AI providers
+  maintainers:
+    - imcvampire@github
+  licenses:
+    - MIT
