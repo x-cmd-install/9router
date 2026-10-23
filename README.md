@@ -37,22 +37,30 @@ Total: **195,010** lines of code across **1473** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,189 · **Forks**: 6,017 · **Open issues**: 2,203 · **Contributors**: 341
+- **Stars**: 31,249 · **Forks**: 6,031 · **Open issues**: 2,211 · **Contributors**: 341
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 202 · **Open PRs**: 1221 · **Closed issues**: 729 · **Open issues**: 1474 · **Commits**: 1431
+- **Releases**: 73 · **Merged PRs**: 202 · **Open PRs**: 1212 · **Closed issues**: 729 · **Open issues**: 1482 · **Commits**: 1431
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 365 | 28 | 273 | 134 |
-| last60d | 2026-08-23 | 0 | 0 | 582 | 67 | 528 | 334 |
-| 90d | 2026-07-24 | 0 | 0 | 758 | 113 | 756 | 428 |
-| last180d | 2026-04-25 | 43 | 71 | 1153 | 381 | 1469 | 944 |
-| 360d | 2025-10-27 | 73 | 202 | 1221 | 729 | 1474 | 1403 |
-| last720d | 2024-11-01 | 73 | 202 | 1221 | 729 | 1474 | 1431 |
+| 30d | 2026-09-23 | 0 | 0 | 349 | 27 | 267 | 134 |
+| last60d | 2026-08-24 | 0 | 0 | 555 | 67 | 532 | 334 |
+| 90d | 2026-07-25 | 0 | 0 | 743 | 110 | 759 | 428 |
+| last180d | 2026-04-26 | 42 | 70 | 1144 | 374 | 1477 | 944 |
+| 360d | 2025-10-28 | 73 | 202 | 1212 | 729 | 1482 | 1403 |
+| last720d | 2024-11-02 | 73 | 202 | 1212 | 729 | 1482 | 1431 |
+
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/9router). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.5.104` | ✅ latest |
 
 ## Improve this data
 
@@ -63,4 +71,4 @@ Install metadata for 9router lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:27:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:29:55Z._
