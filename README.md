@@ -14,12 +14,12 @@ x install 9router
 
 ## Code insight
 
-Total: **195,010** lines of code across **1473** files in the top 5 languages.
+Total: **212,245** lines of code across **1577** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 178,492 | 17,312 | 21,521 | 1413 |
-| Json | 15,523 | 0 | 0 | 45 |
+| JavaScript | 195,673 | 19,863 | 23,244 | 1517 |
+| Json | 15,577 | 0 | 0 | 45 |
 | Css | 654 | 57 | 83 | 2 |
 | Svg | 143 | 0 | 1 | 12 |
 | PowerShell | 108 | 4 | 18 | 1 |
@@ -33,34 +33,34 @@ Total: **195,010** lines of code across **1473** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.35` (2026-07-16)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 31,249 · **Forks**: 6,031 · **Open issues**: 2,211 · **Contributors**: 341
+- **Stars**: 31,307 · **Forks**: 6,047 · **Open issues**: 2,221 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 202 · **Open PRs**: 1212 · **Closed issues**: 729 · **Open issues**: 1482 · **Commits**: 1431
+- **Releases**: 73 · **Merged PRs**: 202 · **Open PRs**: 1217 · **Closed issues**: 739 · **Open issues**: 1482 · **Commits**: 1470
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 349 | 27 | 267 | 134 |
-| last60d | 2026-08-24 | 0 | 0 | 555 | 67 | 532 | 334 |
-| 90d | 2026-07-25 | 0 | 0 | 743 | 110 | 759 | 428 |
-| last180d | 2026-04-26 | 42 | 70 | 1144 | 374 | 1477 | 944 |
-| 360d | 2025-10-28 | 73 | 202 | 1212 | 729 | 1482 | 1403 |
-| last720d | 2024-11-02 | 73 | 202 | 1212 | 729 | 1482 | 1431 |
+| 30d | 2026-09-24 | 0 | 0 | 351 | 32 | 259 | 172 |
+| last60d | 2026-08-25 | 0 | 0 | 551 | 76 | 532 | 372 |
+| 90d | 2026-07-26 | 0 | 0 | 742 | 119 | 755 | 466 |
+| last180d | 2026-04-27 | 42 | 68 | 1148 | 378 | 1476 | 982 |
+| 360d | 2025-10-29 | 73 | 202 | 1217 | 739 | 1482 | 1441 |
+| last720d | 2024-11-03 | 73 | 202 | 1217 | 739 | 1482 | 1470 |
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/9router). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/9router). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.5.104` | ✅ latest |
+| Nix unstable | `0.5.104` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for 9router lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:29:55Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:14:23Z._
