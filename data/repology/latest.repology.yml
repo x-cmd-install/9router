@@ -25,9 +25,9 @@
 - repo: nix_unstable
   srcname: _9router
   visiblename: 9router
-  version: 0.5.112
+  version: 0.5.116
   origversion: null
-  status: outdated
+  status: newest
   summary: Local AI gateway routing requests across multiple AI providers
   maintainers:
     - imcvampire@github
